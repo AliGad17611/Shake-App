@@ -2,6 +2,10 @@
 
 A Flutter application that demonstrates native code integration by using device shake detection to display random motivational quotes. This app showcases how to bridge Flutter with platform-specific native code using EventChannel for real-time communication.
 
+## Demo
+
+Check out the live demo of the Shake Quote App: [View Demo](https://drive.google.com/file/d/1EAfVldCgn_TV8IIUKJmNCBuQQJ_2ObuO/view?usp=drive_link)
+
 ## Features
 
 - **Native Shake Detection**: Uses platform-specific native code (Android/iOS) to detect device shake gestures
